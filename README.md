@@ -1,2 +1,2 @@
 # git-note
-git note
+[statistics](statistics.md)
